@@ -16,8 +16,6 @@ At CrazyDevOpenSource, our mission is to:
 ## 📚 Projects
 We are in the process of developing exciting projects that you can explore and contribute to:
 
-- **[Blog-app](https://github.com/CrazyDevOpenSource/blog-app)**: A multiservice node js with React as frontend project to learn and adapt best practices when it comes to async applications.
-
 ## 🤝 Contributing
 I welcome contributions from anyone interested in joining this journey! To get started:
 1. **Check out our [Contribution Guidelines](https://opensource.guide/how-to-contribute/)** for detailed information on how to contribute.
